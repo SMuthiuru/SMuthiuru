@@ -1,6 +1,6 @@
 - 👋 Hi I'm Nduta Muthiuru 
 - 👀Interested in Python,Java and data analysis 
-- 🌱Currently Learning Python.I am loving the language I’m currently learning ...
+- 🌱Currently doing Python and loving it ...
 -💞️I'm looking to collaborate with learners, experts and employers to develop my career prospective in the field of Information Technology.
 -✨email address: suehnduta@gmail.com
 
